@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/pbakliwal/pbakliwal-2025-3-26-7-31-28-slaktet/:/",
+    "/content/pbakliwal/pbakliwal-2025-3-26-7-31-28-slaktet/metadata.json:/metadata.json",
+    "/content/pbakliwal/pbakliwal-2025-3-26-7-31-28-slaktet/redirects.json:/redirects.json"
   ]
 }
